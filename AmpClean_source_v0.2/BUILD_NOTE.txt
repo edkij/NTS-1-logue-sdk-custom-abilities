@@ -1,3 +1,0 @@
-AmpClean_v0.2_EXPERIMENTAL.ntkdigunit was cross-compiled in the ChatGPT runtime with Clang/LLD 17 for ARM Cortex-M4, Thumb, hard-float fpv4-sp-d16 and packaged for the NTS-1 mkI delfx slot.
-
-This is the same build approach used for AmpClean v0.1 and the hardware-tested OctaClean build. For the most conservative build, rebuild AmpClean.c inside Korg's official logue-sdk dummy-delfx template.
