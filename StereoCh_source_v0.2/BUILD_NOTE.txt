@@ -1,4 +1,0 @@
-The provided experimental binary was cross-built with Clang/LLD 17 for ARM Cortex-M4,
-Thumb, hard-float (FPv4-SP-D16), matching the ABI used by the NTS-1 mkI SDK.
-For an official SDK rebuild, copy the source into platform/nutekt-digital/dummy-revfx
-(or a copy of that template) and run make / make install with Korg's toolchain.
