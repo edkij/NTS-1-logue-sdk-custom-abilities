@@ -1,3 +1,0 @@
-The separately supplied OctaClean_v0.1_EXPERIMENTAL.ntkdigunit was cross-compiled in the ChatGPT runtime with Clang/LLD 17 for ARM Cortex-M4, Thumb, hard-float fpv4-sp-d16, and statically checked as ARM EABI5/hard-float. It was not built with Korg's official GNU Arm toolchain and cannot be hardware-tested here.
-
-For the most conservative build, rebuild OctaClean.c using Korg's official logue-sdk as described in README_RU.md.
