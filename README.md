@@ -27,7 +27,7 @@ A clean real-time pitch shifter / octaver.
 
 Useful for octave-down effects, octave-up effects, harmonies, and full-range pitch shifting.
 
-## AmpClean v0.2 - [MOD] | [DEALY] | [REVERB]
+## AmpClean v0.2 - [MOD](https://github.com/edkij/NTS-1-logue-sdk-custom-abilities/releases/download/NTS-1/AmpClean_v0.2_MOD.ntkdigunit) | [DELAY](https://github.com/edkij/NTS-1-logue-sdk-custom-abilities/releases/download/NTS-1/AmpClean_v0.2_DELAY.ntkdigunit) | [REVERB](https://github.com/edkij/NTS-1-logue-sdk-custom-abilities/releases/download/NTS-1/AmpClean_v0.2_REVERB.ntkdigunit)
 
 A simple gain and saturation effect.
 
@@ -38,7 +38,7 @@ A simple gain and saturation effect.
 
 Can be used as a clean booster, preamp, or distortion stage.
 
-## StereoCh v0.2 - [MOD](https://github.com/edkij/NTS-1-logue-sdk-custom-abilities/releases/download/NTS-1/StereoCh_v0.2_MOD.ntkdigunit) | [DEALY](https://github.com/edkij/NTS-1-logue-sdk-custom-abilities/releases/download/NTS-1/StereoCh_v0.2_DELAY.ntkdigunit) | [REVERB](https://github.com/edkij/NTS-1-logue-sdk-custom-abilities/releases/download/NTS-1/StereoCh_v0.2_REVERB.ntkdigunit)
+## StereoCh v0.2 - [MOD](https://github.com/edkij/NTS-1-logue-sdk-custom-abilities/releases/download/NTS-1/StereoCh_v0.2_MOD.ntkdigunit) | [DELAY](https://github.com/edkij/NTS-1-logue-sdk-custom-abilities/releases/download/NTS-1/StereoCh_v0.2_DELAY.ntkdigunit) | [REVERB](https://github.com/edkij/NTS-1-logue-sdk-custom-abilities/releases/download/NTS-1/StereoCh_v0.2_REVERB.ntkdigunit)
 
 A wide multi-voice stereo chorus.
 
@@ -49,7 +49,7 @@ A wide multi-voice stereo chorus.
 
 At higher settings it becomes a dense ensemble-style chorus with strong stereo movement.
 
-## SwarmCh v0.1 - [MOD](https://github.com/edkij/NTS-1-logue-sdk-custom-abilities/releases/download/NTS-1/SwarmCh_v0.1_MOD.ntkdigunit) | [DEALY](https://github.com/edkij/NTS-1-logue-sdk-custom-abilities/releases/download/NTS-1/SwarmCh_v0.1_DELAY.ntkdigunit) | [REVERB](https://github.com/edkij/NTS-1-logue-sdk-custom-abilities/releases/download/NTS-1/SwarmCh_v0.1_REVERB.ntkdigunit)
+## SwarmCh v0.1 - [MOD](https://github.com/edkij/NTS-1-logue-sdk-custom-abilities/releases/download/NTS-1/SwarmCh_v0.1_MOD.ntkdigunit) | [DELAY](https://github.com/edkij/NTS-1-logue-sdk-custom-abilities/releases/download/NTS-1/SwarmCh_v0.1_DELAY.ntkdigunit) | [REVERB](https://github.com/edkij/NTS-1-logue-sdk-custom-abilities/releases/download/NTS-1/SwarmCh_v0.1_REVERB.ntkdigunit)
 
 A more extreme ensemble chorus built around multiple independently moving voices.
 
