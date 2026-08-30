@@ -1,0 +1,3 @@
+GlitchB v0.2 DELAY. Experimental cross-build: Clang/LLD 17, ARM Cortex-M4, Thumb, hard-float (FPv4-SP-D16).
+The DELAY shift-depth parameter (DELAY + B on NTS-1 mkI) is repurposed as HOLD/FREEZE instead of dry/wet mix.
+For an official SDK rebuild, copy GlitchB.c into platform/nutekt-digital/dummy-delfx and use Korg's toolchain.
