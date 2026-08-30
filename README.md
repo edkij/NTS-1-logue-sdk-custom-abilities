@@ -8,6 +8,8 @@ Each effect is available in different slot variants (`MOD`, `DELAY`, and/or `REV
 https://github.com/edkij/NTS-1-logue-sdk-custom-abilities/releases/tag/NTS-1
 
 ### GlitchB v0.2
+### [GlitchB v0.2](https://github.com/edkij/NTS-1-logue-sdk-custom-abilities/releases/download/NTS-1/GlitchB_v0.2_DELAY.ntkdigunit)
+
 
 A live buffer glitch effect that captures, repeats and destroys fragments of incoming audio.
 
