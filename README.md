@@ -7,6 +7,15 @@ Each effect is available in different slot variants (`MOD`, `DELAY`, and/or `REV
 # Release:  
 https://github.com/edkij/NTS-1-logue-sdk-custom-abilities/releases/tag/NTS-1
 
+### GlitchB v0.2
+
+A live buffer glitch effect that captures, repeats and destroys fragments of incoming audio.
+
+**Parameters**
+- **Crush** — digital degradation
+- **Speed** — fragment length and repetition speed
+- **Hold** — keeps the current fragment longer; at 100% freezes the buffer completely
+
 ## OctaClean v0.1
 
 A clean real-time pitch shifter / octaver.
