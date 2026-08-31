@@ -30,8 +30,8 @@ Useful for octave-down effects, octave-up effects, harmonies, and full-range pit
 A simple gain and saturation effect.
 
 **Parameters:**
-- **Gain:** -6 dB to +36 dB
-- **Saturation:** Clean to heavily driven soft clipping
+- **Gain** — -6 dB to +36 dB
+- **Saturation** — Clean to heavily driven soft clipping
 
 Can be used as a clean booster, preamp, or distortion stage.
 
@@ -40,8 +40,8 @@ Can be used as a clean booster, preamp, or distortion stage.
 A wide multi-voice stereo chorus.
 
 **Parameters:**
-- **Depth:** Chorus modulation depth
-- **Ensemble:** Stereo width and number/intensity of additional chorus voices
+- **Depth** — Chorus modulation depth
+- **Ensemble** — Stereo width and number/intensity of additional chorus voices
 
 At higher settings it becomes a dense ensemble-style chorus with strong stereo movement.
 
@@ -50,8 +50,8 @@ At higher settings it becomes a dense ensemble-style chorus with strong stereo m
 A more extreme ensemble chorus built around multiple independently moving voices.
 
 **Parameters:**
-- **Depth:** Modulation depth
-- **Swarm:** From a relatively simple chorus to a dense moving cloud of voices
+- **Depth** — Modulation depth
+- **Swarm** — From a relatively simple chorus to a dense moving cloud of voices
 
 The voices use different modulation speeds, phases, and delay times, creating a constantly shifting stereo field.
 
