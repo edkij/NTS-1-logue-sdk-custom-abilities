@@ -23,7 +23,7 @@ A clean real-time pitch shifter / octaver.
 - **Pitch** — -24 to +24 semitones
 - **Mix** — Dry to Wet
 
-Useful for octave-down effects, octave-up effects, harmonies, and full-range pitch shifting.
+Useful for octave-down/octave-up effects, harmonies, and full-range pitch shifting.
 
 ## AmpClean v0.2 - [MOD](https://github.com/edkij/NTS-1-logue-sdk-custom-abilities/releases/download/NTS-1/AmpClean_v0.2_MOD.ntkdigunit) | [DELAY](https://github.com/edkij/NTS-1-logue-sdk-custom-abilities/releases/download/NTS-1/AmpClean_v0.2_DELAY.ntkdigunit) | [REVERB](https://github.com/edkij/NTS-1-logue-sdk-custom-abilities/releases/download/NTS-1/AmpClean_v0.2_REVERB.ntkdigunit)
 
