@@ -15,6 +15,17 @@ A live buffer glitch effect that captures, repeats and destroys fragments of inc
 - **Speed** — fragment length and repetition speed
 - **Hold** — controls how strongly GlitchB holds onto the current fragment; at 100% the buffer freezes completely. To adjust it, hold the **DELAY** button and turn the **B** knob.
 
+## InfiniD v0.1 - [DELAY](https://github.com/edkij/NTS-1-logue-sdk-custom-abilities/releases/download/NTS-1/InfiniD_v0.1_DELAY.ntkdigunit)
+
+A long-memory overdub delay that continuously layers incoming audio into a repeating loop.
+
+**Parameters**
+- **Loop** — loop length, from short repeats up to roughly 25 seconds
+- **Overdub** — amount of new incoming audio added to the existing loop
+- **Decay** — controls how long old layers remain, from a few seconds to effectively infinite feedback. To adjust it, hold the **DELAY** button and turn the **B** knob.
+
+At high Decay settings, new sounds can gradually accumulate into a dense evolving wall of audio while older layers continue repeating underneath.
+
 ## OctaClean v0.1 - [MOD](https://github.com/edkij/NTS-1-logue-sdk-custom-abilities/releases/download/NTS-1/OctaClean_v0.1_MOD.ntkdigunit) | [DELAY](https://github.com/edkij/NTS-1-logue-sdk-custom-abilities/releases/download/NTS-1/OctaClean_v0.1_DELAY.ntkdigunit) | [REVERB](https://github.com/edkij/NTS-1-logue-sdk-custom-abilities/releases/download/NTS-1/OctaClean_v0.1_REVERB.ntkdigunit)
 
 A clean real-time pitch shifter / octaver.
