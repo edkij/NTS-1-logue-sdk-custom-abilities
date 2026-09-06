@@ -1,0 +1,12 @@
+{
+  "header": {
+    "platform": "nutekt-digital",
+    "module": "delfx",
+    "api": "1.1-0",
+    "dev_id": 0,
+    "prg_id": 6,
+    "version": "0.1-0",
+    "name": "InfiniD",
+    "num_param": 0
+  }
+}

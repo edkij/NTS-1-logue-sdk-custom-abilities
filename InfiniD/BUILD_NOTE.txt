@@ -1,0 +1,4 @@
+InfiniD v0.1 DELAY. Experimental cross-build: Clang/LLD 17, ARM Cortex-M4, Thumb, hard-float (FPv4-SP-D16).
+The DELAY shift-depth parameter (DELAY + B on NTS-1 mkI) is repurposed as DECAY instead of dry/wet mix.
+The delay memory is mono 16-bit at the native 48 kHz rate, giving a maximum physical loop of about 25 seconds while long decay is created by feedback rather than by storing minutes of audio.
+For an official SDK rebuild, copy InfiniD.c into platform/nutekt-digital/dummy-delfx and use Korg's toolchain.
