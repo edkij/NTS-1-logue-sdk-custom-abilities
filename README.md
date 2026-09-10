@@ -46,18 +46,22 @@ A simple gain and saturation effect.
 
 Can be used as a clean booster, preamp, or distortion stage.
 
-## StereoCh v0.4 - [MOD](https://github.com/edkij/NTS-1-logue-sdk-custom-abilities/releases/download/NTS-1/StereoCh_v0.4_MOD.ntkdigunit) | [DELAY](https://github.com/edkij/NTS-1-logue-sdk-custom-abilities/releases/download/NTS-1/StereoCh_v0.4_DELAY.ntkdigunit) | [REVERB](https://github.com/edkij/NTS-1-logue-sdk-custom-abilities/releases/download/NTS-1/StereoCh_v0.4_REVERB.ntkdigunit)
+## StereoCh
 
-An alternative version of StereoCh with asymmetric LFO movement.
+### v0.2 - [MOD](https://github.com/edkij/NTS-1-logue-sdk-custom-abilities/releases/download/NTS-1/StereoCh_v0.2_MOD.ntkdigunit) | [DELAY](https://github.com/edkij/NTS-1-logue-sdk-custom-abilities/releases/download/NTS-1/StereoCh_v0.2_DELAY.ntkdigunit) | [REVERB](https://github.com/edkij/NTS-1-logue-sdk-custom-abilities/releases/download/NTS-1/StereoCh_v0.2_REVERB.ntkdigunit)
+
+### v0.4 - [MOD](https://github.com/edkij/NTS-1-logue-sdk-custom-abilities/releases/download/NTS-1/StereoCh_v0.4_MOD.ntkdigunit) | [DELAY](https://github.com/edkij/NTS-1-logue-sdk-custom-abilities/releases/download/NTS-1/StereoCh_v0.4_DELAY.ntkdigunit) | [REVERB](https://github.com/edkij/NTS-1-logue-sdk-custom-abilities/releases/download/NTS-1/StereoCh_v0.4_REVERB.ntkdigunit)
+
+A wide multi-voice stereo chorus.
 
 **Parameters:**
 - **Depth** — Chorus modulation depth
 - **Ensemble** — Stereo width and number/intensity of additional chorus voices
-- **Rate** — Modulation speed. Available in the DELAY and REVERB versions; hold the corresponding effect button and turn the **B** knob.
+- **Rate** — Modulation speed in v0.4 DELAY and REVERB versions. Hold the corresponding effect button and turn the **B** knob.
 
-Unlike v0.2, the modulation in v0.4 is intentionally asymmetric. Upward pitch movement is softer and less prominent, while the downward movement is stronger. Additional ensemble voices become progressively more asymmetric as Ensemble is increased.
+At higher settings it becomes a dense ensemble-style chorus with strong stereo movement.
 
-The result is a deeper and heavier stereo chorus with fewer prominent high-pitched voices, while keeping the wide moving ensemble character of the original StereoCh.
+**v0.4** uses asymmetric LFO movement: upward pitch movement is softer and less prominent, while downward movement is stronger. This gives it a deeper, heavier character with fewer prominent high-pitched voices, while v0.2 keeps the brighter and more symmetrical original StereoCh sound.
 
 ## SwarmCh v0.1 - [MOD](https://github.com/edkij/NTS-1-logue-sdk-custom-abilities/releases/download/NTS-1/SwarmCh_v0.1_MOD.ntkdigunit) | [DELAY](https://github.com/edkij/NTS-1-logue-sdk-custom-abilities/releases/download/NTS-1/SwarmCh_v0.1_DELAY.ntkdigunit) | [REVERB](https://github.com/edkij/NTS-1-logue-sdk-custom-abilities/releases/download/NTS-1/SwarmCh_v0.1_REVERB.ntkdigunit)
 
